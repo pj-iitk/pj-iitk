@@ -7,15 +7,15 @@
 
 ## A tech enthusiast designs, develops, and maintains technological systems and solutions to solve complex problems and improve efficiency.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn more about web3
-- ⚡ Fun fact: I love everything about football.
+- 🌱 Curious about anything and everything tech 
+- :swimmer:  Swims a kilometer everyday.
+- :soccer:  Culer. Loves everything about football.
+- 🥅 2024 Goals: Get better at designing high scalable systems.
+- ⚡ Fun fact: I play Ponziani opening in chess. 🤣
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://sharmajikladka.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://sharmajikladka.com#gh-dark-mode-only)
+[![website](./img/globe-dark.svg)](https://sharmajikladka.com)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/pj-iitk#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/pj-iitk#gh-dark-mode-only)
@@ -46,9 +46,6 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only) -->
 
-<br />
-<br />
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -61,12 +58,3 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sharmajikladka.com)
-
----
-
-
-
-[website]: https://sharmajikladka.com
-[twitter]: https://twitter.com/pj-iitk
-[instagram]: https://instagram.com/_sharmaji_k_ladka_
-[linkedin]: https://linkedin.com/in/pj-iitk
